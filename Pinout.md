@@ -10,7 +10,7 @@
     <th><b>Color</b></th>
     <th><b>Wire Harness</b></th>
     <th><b>Description</b></th>
-    <td rowspan="11" align="center" width="50%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Street%20Legal/Images/20230727_121335.jpg"></td>
+    <td rowspan="11" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230727_121335.jpg"></td>
   </tr>  
   <tr>
     <td>Black</td>
@@ -68,7 +68,7 @@
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
-    <!--<td rowspan="5" align="center" width="50%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Street%20Legal/Images/20230727_121335.jpg"></td>-->
+    <td rowspan="5" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230728_161124.jpg"></td>
   </tr>  
   <tr>
     <td>Green</td>
@@ -98,7 +98,7 @@
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
-    <td rowspan="5" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Street%20Legal/Images/20230727_124518.jpg"></td>    
+    <td rowspan="5" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230727_124518.jpg"></td>    
   </tr>  
   <tr>
     <td>Green</td>
@@ -125,7 +125,7 @@
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
-    <td rowspan="5" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Street%20Legal/Images/20230727_122102.jpg"></td>        
+    <td rowspan="5" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230727_122136.jpg"></td>        
   </tr>  
   <tr>
     <td>Green</td>
@@ -155,7 +155,7 @@
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
-    <td rowspan="4" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Street%20Legal/Images/20230727_122102.jpg"></td>            
+    <td rowspan="4" align="center" width="25%"><img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230727_122102.jpg"></td>            
   </tr>  
   <tr>
     <td>Green</td>

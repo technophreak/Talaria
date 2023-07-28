@@ -2,7 +2,7 @@ This mod is what I found was the best way to make the MX4 street legal with as l
 
 The following (reversible) alterations to the factory components are required:
 * Sacrifice (reversible) the horn button to reuse the 9 Pins connector on handlebar for 4 buttons controls.
-* Move headlight connector pin to another pin
+* Move headlight connector pin to different one
 
 ## Bill of Material (sponsored links) ##
 This is roughly a 80$ CAD (60$ USD) project

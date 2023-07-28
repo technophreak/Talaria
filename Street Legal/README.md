@@ -13,9 +13,11 @@ This is roughly a 80$ CAD (60$ USD) project
 
 ## Pinouts ##
 <table>
+	<thead>
     <tr>
-        <th colspan="4">Handlebars - 9 Pins Connector</td>
+      <th colspan="4">Handlebars - 9 Pins Connector</td>
     </tr>
+	</thead>
   <tr>
     <th><b>Color</b></th>
     <th><b>Wire Harness</b></th>
@@ -69,10 +71,12 @@ This is roughly a 80$ CAD (60$ USD) project
   </tr>
 </table>
 
-<table>
-    <tr>
-        <th colspan="3">Front - 4 Pins Headlight Connector</td>
-    </tr>
+<table>	
+    <thead>
+  	  <tr>
+  	    <th colspan="3">Front - 4 Pins Headlight Connector</td>
+      </tr>
+    </thead>
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
@@ -98,9 +102,11 @@ This is roughly a 80$ CAD (60$ USD) project
 		
 
 <table>
-    <tr>
-        <th colspan="3">Front - 3 Pins Turn Signal Connector</td>
-    </tr>
+  	<thead>
+      <tr>
+          <th colspan="3">Front - 3 Pins Turn Signal Connector</td>
+      </tr>
+    </thead>
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
@@ -123,9 +129,11 @@ This is roughly a 80$ CAD (60$ USD) project
 		
 
 <table>
-    <tr>
-        <th colspan="3">Back - Turn Signal Individual Bullet Plugs</td>
-    </tr>
+  	<thead>
+      <tr>
+          <th colspan="3">Back - Turn Signal Individual Bullet Plugs</td>
+      </tr>
+    </thead>
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>
@@ -151,9 +159,11 @@ This is roughly a 80$ CAD (60$ USD) project
 		
 
 <table>
-    <tr>
-        <th colspan="3">Rear - 3 Pins Tail Light Connector</td>
-    </tr>
+  	<thead>
+      <tr>
+          <th colspan="3">Rear - 3 Pins Tail Light Connector</td>
+      </tr>
+    </thead>
   <tr>
     <th><b>Color</b></th>
     <th><b>Description</b></th>

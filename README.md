@@ -6,7 +6,7 @@ If you find a critical issue or improvement I will gladly apply changes and revi
 
 Enjoy and be safe !
 ## References ##
-* <a href="https://github.com/technophreak/Talaria-Sting-R-MX4/tree/main/Pinout.md">Pinout</a> of some of the connectors
+* <a href="https://github.com/technophreak/Talaria/tree/main/Sting%20R%20MX4%20Pinout.md">Pinout</a> of some of the connectors
 
 ## Mods List ##
 <table>
@@ -18,7 +18,7 @@ Enjoy and be safe !
 </tr>
 <tr valign="top">
   <td nowrap>2023-07-28</td>
-  <td nowrap><a href="https://github.com/technophreak/Talaria-Sting-R-MX4/tree/main/Street%20Legal">Street Legal</a></td>
+  <td nowrap><a href="https://github.com/technophreak/Talaria/tree/main/Mods/Street%20Legal">Street Legal</a></td>
   <td>Making the bike Street Legal by adding turn signals in front and rear. Requires soldering and 3d Printing</td>
   <td nowrap>Medium</td>  
 </tr>

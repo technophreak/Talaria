@@ -3,7 +3,7 @@
 <table>
 	<thead>
     <tr>
-      <th colspan="4">Handlebars - 9 Pins Connector</td>
+      <th colspan="4">Handlebars - 9 Pins Connector (Horn)</td>
     </tr>
 	</thead>
   <tr>
@@ -55,6 +55,65 @@
     <tr>
     <td>Brown</td>
     <td>Yellow/Orange</td>
+    <td>Unknown</td>    
+  </tr>
+</table>
+
+<table>
+	<thead>
+    <tr>
+      <th colspan="4">Handlebars - 9 Pins Connector (Display)</td>
+    </tr>
+	</thead>
+  <tr>
+    <th><b>Color</b></th>
+    <th><b>Wire Harness</b></th>
+    <th><b>Description</b></th>
+    <td rowspan="11" align="center" width="25%"><!--<img src="https://github.com/technophreak/Talaria-Sting-R-MX4/blob/main/Images/20230727_121335.jpg">--></td>
+  </tr>  
+  <tr>
+    <td>Black</td>
+    <td>TBD</td>
+    <td>Negative 12V</td>    
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>TBD</td>
+    <td>Positive 12V</td>    
+  </tr>
+    <tr>
+    <td>Green</td>
+    <td>TBD</td>
+    <td>CAN Low</td>    
+  </tr>
+  <tr>
+    <td>Yellow</td>
+    <td>TBD</td>
+    <td>CAN High</td>    
+  </tr>  
+  <tr>
+    <td>White</td>
+    <td>TBD</td>
+    <td>Unknown</td>    
+  </tr>  
+  <tr>
+    <td>Purple</td>
+    <td>TBD</td>
+    <td>Unknown</td>    
+  </tr>   
+  <tr>
+    <td>Blue</td>
+    <td>TBD</td>
+    <td>Unknown</td>    
+  </tr>
+  <tr>
+    <td>Grey</td>
+    <td>TBD</td>
+    <td>Unknown</td>    
+  </tr>
+    <tr>
+    <td>Brown</td>
+    <td>TBD</td>
     <td>Unknown</td>    
   </tr>
 </table>

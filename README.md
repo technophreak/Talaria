@@ -6,7 +6,7 @@ If you find a critical issue or improvement I will gladly apply changes and revi
 
 Enjoy and be safe !
 ## References ##
-* <a href="https://github.com/technophreak/Talaria/tree/main/Sting%20R%20MX4%20Pinout.md">Pinout</a> of some of the connectors
+* <a href="https://github.com/technophreak/Talaria/tree/main/Sting%20R%20MX4%20Pinout.md">Sting R MX4 Pinout</a> of some of the connectors
 
 ## Mods List ##
 <table>

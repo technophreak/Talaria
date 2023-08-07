@@ -25,14 +25,18 @@ This is roughly a 80$ CAD (60$ USD) project
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B099PX13F8/ref=ewc_pr_img_1?smid=A1RXNZT4AK0KHN&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=f8217574156e668a2d5c38af6e40d86e&camp=15121&creative=330641">M6 Button Head Scews</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B0BB8ML814/ref=ewc_pr_img_7?smid=A1UC7EPQNR7LH4&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=1eb142d4474285bdc0e15b08ca9e1e27&camp=15121&creative=330641">Blinker Fluid</a>
 
-## Tools Required ##
+## Tools Required (sponsored links) ##
 These are tools I have purchased myself and have been working with for a while. I recommend if you do not already have equivalent.
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B07JL54N4X/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=9a2ed095979bc96dce251a04c40ac231&camp=15121&creative=330641">Wire Cable Cutter</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B07X48MKWR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=8c5f1b457e4fea82707fff06b9d1840e&camp=15121&creative=330641">Cable Stripper Pliers</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B001AXD0EY/ref=ewc_pr_img_5?smid=A3DWYIK6Y9EEQB&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=05e91342b484c071ce07225cf3ec970e&camp=15121&creative=330641">Electrical Tape</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B0C1G8S3Z2/ref=ewc_pr_img_1?smid=A33KEXAIEXH1NV&amp;th=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=a5547a6523e19a5f393c5c801dd15328&camp=15121&creative=330641">Soldering Iron</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B0943TPRXK/ref=ewc_pr_img_1?smid=A2L1VF9N696CKB&amp;th=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=d477bd19006876d7a9dd2a40ae01a22d&camp=15121&creative=330641">Soldering Wire with Flux</a>
+* 3D Printer (Or access to one)
 * Toolkit included with the MX4
 
 ## Instructions ##
 **!!! INSTRUCTIONS NOT YET COMPLETE - WORK IN PROGRESS !!!**
+
+### STEP 1 - 3D Printing ###
+Print the <a href="https://github.com/technophreak/Talaria/blob/main/Mods/Street%20Legal/STLs/MX4%20Front%20Lights%20Bracket.stl">front</a> and <a href="https://github.com/technophreak/Talaria/blob/main/Mods/Street%20Legal/STLs/MX4%20Back%20Lights%20Bracket.stl">rear</a> brackets,

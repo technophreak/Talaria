@@ -1,3 +1,4 @@
+# Making Talaria Sting R MX4 Street Legal #
 <table>
   <tr>
     <td width="50%"><img src="https://github.com/technophreak/Talaria/blob/main/Mods/Street%20Legal/Images/20230728_161411.jpg"/></td>
@@ -7,12 +8,15 @@
     <td width="50%"><img src="https://github.com/technophreak/Talaria/blob/main/Mods/Street%20Legal/Images/20230805_142148.jpg"/></td>
   </tr>
 </table>
-# NOT YET COMPLETE - WORK IN PROGRESS #
+
+**!!! INSTRUCTIONS NOT YET COMPLETE - WORK IN PROGRESS !!!**
+
 This mod is what I found was the best way to make the MX4 street legal with as little as possible changes to the factory components.
 
 The following (reversible) alterations to the factory components are required:
 * Sacrifice (reversible) the horn button to reuse the 9 Pins connector on handlebar for 4 buttons controls.
-* Move headlight connector pin to different one
+* Move headlight connector pin to different location
+* Add pin to backlight connector for brake light
 
 ## Bill of Material (sponsored links) ##
 This is roughly a 80$ CAD (60$ USD) project

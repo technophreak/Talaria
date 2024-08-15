@@ -26,7 +26,7 @@ Enjoy and be safe !
   <td nowrap>2024-08-15</td>
   <td nowrap><a href="https://github.com/technophreak/Talaria/tree/main/Mods/AndroidAuto-Carplay">Android Auto/Carplay</a></td>
   <td>Adding a wireless/bluetooth 9.3" screen with Android Auto/Carplay. Requires soldering 3D printing</td>
-  <td nowrap>Medium</td>  
+  <td nowrap>Low</td>  
 </tr>
 
 </table>

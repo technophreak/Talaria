@@ -1,5 +1,5 @@
 
-# Pinouts for Talaria Sting R MX4#
+# Pinouts for Talaria Sting R MX4 #
 <table>
 	<thead>
     <tr>

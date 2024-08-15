@@ -35,7 +35,7 @@ This is roughly a 80$ CAD (60$ USD) project
   * <a target="_blank" href="https://www.amazon.com/gp/product/B07DYCR2GY/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1">Amazon USA</a>
 * <a target="_blank" href="https://www.amazon.ca/gp/product/B0BB8ML814/ref=ewc_pr_img_7?smid=A1UC7EPQNR7LH4&amp;psc=1&_encoding=UTF8&tag=technophreak-20&linkCode=ur2&linkId=1eb142d4474285bdc0e15b08ca9e1e27&camp=15121&creative=330641">Blinker Fluid</a>
 
-#### Optional upgrades ####
+### Optional upgrades ###
 
 For those who would be interested of using Carplay/Android Auto with your Talaria Sting R MX4, this is a decent option. You will require some PD65W USB-C charger and a USB-C to USB-C cable to power the screen. There is a removable bracket in the 3D printed models directory that you can print and fit it on the screen listed below.
 
@@ -46,7 +46,7 @@ For those who would be interested of using Carplay/Android Auto with your Talari
   * <a target="_blank" href="https://www.amazon.com/dp/B0B7H3JTDF?psc=1&ref=ppx_yo2ov_dt_b_product_details">Amazon USA</a>
 * PD65W Fast Charging Module Type-C USB
   * <a target="_blank" href="https://www.aliexpress.us/item/3256806830457021.html?spm=a2g0o.order_list.order_list_main.5.1c111802xkgSOu&gatewayAdapt=glo2usa">AliExpress</a>
-* Handlebar Clamp Mount
+* Handlebar Mount Clamp
   * <a target="_blank" href="https://www.amazon.ca/gp/product/B09RFGHSTK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Amazon Canada (Order 2)</a>
   * <a target="_blank" href="https://www.amazon.com/gp/product/B07CZWQYD7/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1">Amazon USA</a>
     * Note: there are no real affordable options on Amazon USA for those. You can use the following link for a 2-piece set of bottle holders and use the clamps from those.

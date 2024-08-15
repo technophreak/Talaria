@@ -19,13 +19,13 @@ Enjoy and be safe !
 <tr valign="top">
   <td nowrap>2023-07-28</td>
   <td nowrap><a href="https://github.com/technophreak/Talaria/tree/main/Mods/Street%20Legal">Street Legal</a></td>
-  <td>Making the bike Street Legal by adding turn signals in front and rear. Requires soldering and 3d Printing</td>
+  <td>Making the bike Street Legal by adding front and rear turn signals. Requires soldering and 3D printing</td>
   <td nowrap>Medium</td>  
 </tr>
 <tr valign="top">
   <td nowrap>2024-08-15</td>
   <td nowrap><a href="https://github.com/technophreak/Talaria/tree/main/Mods/AndroidAuto-Carplay">Android Auto/Carplay</a></td>
-  <td>Adding a wireless/bluetooth 9.3" screen with Android Auto/Carplay. Requires soldering 3D printing</td>
+  <td>Adding a wireless/bluetooth 9.3" screen with Android Auto/Carplay. Requires soldering and 3D printing</td>
   <td nowrap>Low</td>  
 </tr>
 

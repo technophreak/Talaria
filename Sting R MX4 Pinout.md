@@ -222,7 +222,7 @@
   </tr>
   <tr>
     <td>Black</td>
-    <td>Pisitive 12V</td>    
+    <td>Positive 12V</td>    
   </tr>	 
   <tr>
     <td>Green & Yellow</td>
